@@ -27,6 +27,7 @@ The dataset contains the following columns:
 - Handled missing values
 - Removed duplicates
 - Normalized numerical features using StandardScaler
+- Model Building
 
 ## Models Evaluated
 The following regression models were evaluated:
